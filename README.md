@@ -31,7 +31,6 @@ React, Next.js, TypeScript를 중심으로 제품을 만들고 있습니다.
 ## Links
 
 - Portfolio: [angrymusic.notion.site/portfolio](https://angrymusic.notion.site/portfolio)
-- GitHub Pages: [angrymusic.github.io](https://angrymusic.github.io)
-- Life Dashboard: [lifedashboard.work](https://lifedashboard.work/)
+
 
 [![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=angrymusic&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
